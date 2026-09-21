@@ -84,7 +84,7 @@ ulsa_ime_1_dp_suma_numeros/
 
 ## Fase 2. Diseñar la receta
 
-*Llena la sección 3 de tu README.md, escribe tu receta en RECETA.md y responde en la sección 5 si la probaste a mano.*
+*Llena la sección 3 de tu `README.md`, escribe tu receta en `RECETA.md` y responde en la sección 5 si la probaste a mano.*
 
 > **Nota técnica: ¿por qué entender el proceso antes de escribir el pseudocódigo y el código?**
 > Porque el código solo traduce una solución que ya existe en tu cabeza. Si escribes sin entender, terminas corrigiendo errores de lógica con parches, y eso cuesta más tiempo que pensar antes.
@@ -97,7 +97,7 @@ ulsa_ime_1_dp_suma_numeros/
 - ¿Qué pasos se repiten? ¿Cuántas veces?
 - ¿Cómo sé cuándo terminar?
 
-**Completa la receta en pseudocódigo** (los espacios en blanco son tuyos), está receta la puedes escribir en el archivo `RECETA.md`:
+**Completa la receta en pseudocódigo** (los espacios en blanco son tuyos), esta receta la puedes escribir en el archivo `RECETA.md`:
 
 ```
 1. Mostrar mensaje de bienvenida
@@ -133,7 +133,7 @@ ulsa_ime_1_dp_suma_numeros/
 **Así se ve tu punto de partida en `main.cpp`:**
 
 ```cpp
-// Recuerdas que hace iostream?
+// ¿Recuerdas quá hace la libreria iostream?
 #include <iostream>
 
 // ¿por qué debe existir la función main()?

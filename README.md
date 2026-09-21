@@ -4,7 +4,7 @@
 
 _____
 
-   ## 2. Entradas y salidas (Fase 1)
+## 2. Entradas y salidas (Fase 1)
    <!-- Define cada entrada y cada salida, con su tipo de dato y su objetivo. -->
 
    **Entradas:**
@@ -33,8 +33,8 @@ _____
 | 2 | _____ | _____ |
 | 3 | _____ | _____ |
 
-   ## 5. Receta en pseudocódigo (Fase 2)
-   <!-- Tu receta va en el archivo RECETA.md. Aquí solo responde las dos preguntas. -->
+## 5. Receta en pseudocódigo (Fase 2)
+<!-- Tu receta va en el archivo RECETA.md. Aquí solo responde las dos preguntas. -->
 
 Esta sección resuélvela en el archivo `RECETA.md`
 
