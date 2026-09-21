@@ -23,7 +23,7 @@
 | 4 | Probar y mejorar |
 | 5 | Publicar en GitHub |
 
-**Cómo usar el `README.md`:** ya viene en el repositorio base con espacios en blanco (`_____`). Lo vas llenando fase por fase, así no tienes que preguntarte qué va en él. Cada fase de esta guía te indica qué secciones llenar. No es necesario que uses el archivo README.md, también puedes copiar el contenido y hacerlo en un editor de texto de tu elección. Solo asegurate se subir el archivo a tu repositorio.
+**Cómo usar el `README.md`:** ya viene en el repositorio base con espacios en blanco (`_____`). Lo vas llenando fase por fase, así no tienes que preguntarte qué va en él. Cada fase de esta guía te indica qué secciones llenar. No es necesario que uses el archivo README.md, también puedes copiar el contenido y hacerlo en un editor de texto de tu elección. Solo asegúrate de subir el archivo equivalente a tu repositorio.
 
 
 ## Fase 0. Preparar tu entorno
@@ -243,7 +243,7 @@ También puedes usar GitHub Desktop como lo hemos hecho antes.
 4. Entrega en Google Classroom el enlace a **tu fork**.
 
 > **Nota técnica: commits pequeños.**
-> Cada commit es un punto al que puedes volver si algo sale mal. Confirma cambios cada vez que completes un paso pequeño que funcione, como los de la Fase 3.
+> Cada commit es un punto al que puedes volveSolo asegurate se subir si algo sale mal. Confirma cambios cada vez que completes un paso pequeño que funcione, como los de la Fase 3.
 
 ---
 

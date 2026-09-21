@@ -4,12 +4,14 @@
 
 _____
 
-## 2. Entradas y salidas (Fase 1)
+   ## 2. Entradas y salidas (Fase 1)
+   <!-- Define cada entrada y cada salida, con su tipo de dato y su objetivo. -->
 
-- **Entradas** (define cada entrada, con su tipo de dato y cual es su objetivo)
-1. Todos los válores deben ser númericos
-- **Salidas**
-1. Nungún número de la entrada debe ser ignorado.
+   **Entradas:**
+   1. _____
+
+   **Salidas:**
+   1. _____
 
 ## 3. Restricciones e invariante (Fase 1 y 2)
 
@@ -33,14 +35,7 @@ _____
 
 ## 5. Receta en pseudocódigo (Fase 2)
 <!-- Escribe aquí tus pasos antes de programar. Si los cambias después, actualízalos. -->
-
-```
-1. _____
-2. _____
-3. _____
-4. _____
-5. _____
-```
+Esta sección resuelvela en el archivo `RECETA.md`
 
 **¿Probé mi receta a mano con un caso?** Sí / No
 **¿Tuve que corregirla?** _____
@@ -48,7 +43,7 @@ _____
 ## 6. Cómo compilar y ejecutar (Fase 3)
 
 ```bash
-g++ -Wall -Wextra -std=c++17 suma.cpp -o suma
+g++ -Wall -Wextra -std=c++17 main.cpp -o suma
 ./suma
 ```
 
