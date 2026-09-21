@@ -33,9 +33,10 @@ _____
 | 2 | _____ | _____ |
 | 3 | _____ | _____ |
 
-## 5. Receta en pseudocódigo (Fase 2)
-<!-- Escribe aquí tus pasos antes de programar. Si los cambias después, actualízalos. -->
-Esta sección resuelvela en el archivo `RECETA.md`
+   ## 5. Receta en pseudocódigo (Fase 2)
+   <!-- Tu receta va en el archivo RECETA.md. Aquí solo responde las dos preguntas. -->
+
+Esta sección resuélvela en el archivo `RECETA.md`
 
 **¿Probé mi receta a mano con un caso?** Sí / No
 **¿Tuve que corregirla?** _____

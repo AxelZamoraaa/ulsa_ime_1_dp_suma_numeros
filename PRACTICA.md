@@ -40,7 +40,7 @@ cd ulsa_ime_1_dp_suma_numeros
 También puedes hacer el clone desde GitHub Desktop como lo hemos hecho antes.
 
 
-4. Abre la carpeta en tu editor y revisa los tres archivos:
+4. Abre la carpeta en tu editor y revisa los archivos:
 
 ```
 ulsa_ime_1_dp_suma_numeros/
@@ -84,7 +84,7 @@ ulsa_ime_1_dp_suma_numeros/
 
 ## Fase 2. Diseñar la receta
 
-*Todavía sin código. Llena las secciones 3 y 5 de tu `README.md`.*
+*Llena la sección 3 de tu README.md, escribe tu receta en RECETA.md y responde en la sección 5 si la probaste a mano.*
 
 > **Nota técnica: ¿por qué entender el proceso antes de escribir el pseudocódigo y el código?**
 > Porque el código solo traduce una solución que ya existe en tu cabeza. Si escribes sin entender, terminas corrigiendo errores de lógica con parches, y eso cuesta más tiempo que pensar antes.
@@ -133,7 +133,7 @@ ulsa_ime_1_dp_suma_numeros/
 **Así se ve tu punto de partida en `main.cpp`:**
 
 ```cpp
-// ¿Recueras que hace iostream?
+// Recuerdas que hace iostream?
 #include <iostream>
 
 // ¿por qué debe existir la función main()?
@@ -243,7 +243,7 @@ También puedes usar GitHub Desktop como lo hemos hecho antes.
 4. Entrega en Google Classroom el enlace a **tu fork**.
 
 > **Nota técnica: commits pequeños.**
-> Cada commit es un punto al que puedes volveSolo asegurate se subir si algo sale mal. Confirma cambios cada vez que completes un paso pequeño que funcione, como los de la Fase 3.
+> Cada commit es un punto al que puedes volver si algo sale mal. Confirma cambios cada vez que completes un paso pequeño que funcione, como los de la Fase 3.
 
 ---
 

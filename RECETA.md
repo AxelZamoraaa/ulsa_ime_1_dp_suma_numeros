@@ -1,3 +1,5 @@
+# Receta: Suma de 5 números
+
 1. Mostrar mensaje de bienvenida
 2. suma ← ______
 3. contador ← ______
