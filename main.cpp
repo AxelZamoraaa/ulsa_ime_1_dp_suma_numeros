@@ -1,4 +1,4 @@
-// ¿Recuerdas que hace iostream?
+// ¿Recuerdas qué hace iostream?
 #include <iostream>
 
 // ¿por qué debe existir la función main()?

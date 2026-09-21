@@ -133,7 +133,7 @@ ulsa_ime_1_dp_suma_numeros/
 **Así se ve tu punto de partida en `main.cpp`:**
 
 ```cpp
-// ¿Recuerdas quá hace la libreria iostream?
+// ¿Recuerdas qué hace iostream?
 #include <iostream>
 
 // ¿por qué debe existir la función main()?
