@@ -22,7 +22,7 @@ El programa sirve para poder hacer sumas de hasta cinco numeros, y esto me servi
 Si se aceptan tanto decimales como negativos porque se estan definiendo en el codigo y la suma funciona igual para los negativos y decimales
 
 **Invariante** (¿qué es verdad después de cada vuelta del ciclo?):
-que siempre va a dar un resultado de la suma, que se vana a usar un maximo de 5 numeros diferente
+que siempre va a dar un resultado de la suma, que se van a a usar un maximo de 5 numeros diferente
 
 ## 4. Casos resueltos a mano (Fase 1)
 
@@ -66,7 +66,7 @@ se corta el codigo, y queda usando solo el 2 y ya la parte decimal se queda sin 
 | Del 1 al 5 | 1 a 5 | 15 | 15 | si |
 | Todos ceros | 0 ×5 | 0 | 0 | si |
 | Con negativos | del -1 al -5 | -15 | -15 | si |
-| Decimales | 0.5 ×5 | 2.5 | rechazo los numeros | no |
+| Decimales | 0.5 ×5 | 2.5 | al principio rechazo los numeros | al principio no |
 | Todos iguales | 7 ×5 | 35 | 35 | si (solo si los puse como "7" 5 veces) |
 | Caso propio 1 | 2,2,5,1,2 | 12 | 12 | si |
 | Caso propio 2 | -4,-5,8,10,1 | 10 | 10 | si |
@@ -74,9 +74,10 @@ se corta el codigo, y queda usando solo el 2 y ya la parte decimal se queda sin 
 ## 10. Bitácora de mejoras (Fase 4)
 
 | # | ¿Qué falló o qué quise mejorar? | ¿Qué cambié? | ¿Funcionó? |
-que al  no acepta decimales, y que no acepta multiplicaciónes, cambie despues para que si aceptara decimales y si funcionó
+que al principio no aceptaba decimales, y queria que aceptara otro tipo de operaciones acepta multiplicaciónes, cambie despues para que si aceptara decimales y si funcionó
 
 **Reto elegido (opcional):** 
+que acepte otras operaciones, pero no hice que las acepstara 
 
 ## 11. Dudas para el profesor (Fase 3)
 
