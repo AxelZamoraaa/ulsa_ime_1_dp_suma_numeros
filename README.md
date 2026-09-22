@@ -10,16 +10,16 @@ El programa sirve para poder hacer sumas de hasta cinco numeros, y esto me servi
 1. <0 y >0  estos son los numeros que se van a usar y el objetivo es que se puedan sumar
 
 **Salidas:**
-1. la suma total de los 5 numeros =15
+1. la suma total de los 5 numeros = (al resultado)
 
 ## 3. Restricciones e invariante (Fase 1 y 2)
 
 **Restricciones** (¿qué debe cumplirse?):
-- que el numero sea entero
-- que el numero sea menor o igual que 5
+- que el numero sea arabigo
+- que el numero sea menor mayor o igual a 0
 
 **Decisión sobre negativos y decimales** (¿los acepto? ¿por qué?):
-Si se haceptan tanto decimales como negativos porque se estan definiendo en el codigo y la suma funciona igual para los negativos y decimales
+Si se aceptan tanto decimales como negativos porque se estan definiendo en el codigo y la suma funciona igual para los negativos y decimales
 
 **Invariante** (¿qué es verdad después de cada vuelta del ciclo?):
 que siempre va a dar un resultado de la suma, que se vana a usar un maximo de 5 numeros diferente
