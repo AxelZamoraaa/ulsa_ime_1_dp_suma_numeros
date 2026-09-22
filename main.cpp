@@ -1,6 +1,6 @@
-// ¿Recuerdas qué hace iostream?
 #include <iostream>
 
+using namespace std;
 
 int main() {
 
@@ -11,19 +11,19 @@ int main() {
     double numero = 0.0;
     int contador = 0;
     
-    std::cout << "Bienvenido al programa de suma de numeros.\n";
+    cout << "Bienvenido al programa de suma de numeros.\n";
 
-    std::cout << "Vas a ingresar " << CANTIDAD << " numeros.\n";
+    cout << "Vas a ingresar " << CANTIDAD << " numeros.\n";
 
     while (contador < CANTIDAD) {
-        std::cout << "Ingresa un numero: ";
-        std::cin >> numero;
+        cout << "Ingresa un numero: ";
+        cin >> numero;
 
         suma += numero;
         contador++;
     }
 
-    std::cout << "La suma de los numeros ingresados es: " << suma << "\n";
+    cout << "La suma de los numeros ingresados es: " << suma << "\n";
 
     
     return 0;
