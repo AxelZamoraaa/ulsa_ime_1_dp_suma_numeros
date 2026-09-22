@@ -10,7 +10,7 @@ int main() {
     double suma   = 0.0;
     double numero = 0.0;
 
-    std::cout << "Suma de " << CANTIDAD << " numeros\n";
+    std::cout << "Suma de " << CANTIDAD << " numeros: " << suma << "\n";
 
     // 3. Ciclo: repetir CANTIDAD veces
     //    TODO: elige un ciclo (for o while) y usa un contador
