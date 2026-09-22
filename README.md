@@ -7,7 +7,7 @@ El programa sirve para poder hacer sumas de hasta cinco numeros, y esto me servi
 <!-- Define cada entrada y cada salida, con su tipo de dato y su objetivo. -->
 
 **Entradas:**
-1. -5,-4,-3,-2,-1,0,1,2,3,4,5  estos son los numeros que se van a usar y el objetivo es que se puedan sumar
+1. <0 y >0  estos son los numeros que se van a usar y el objetivo es que se puedan sumar
 
 **Salidas:**
 1. la suma total de los 5 numeros =15
