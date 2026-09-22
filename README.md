@@ -22,7 +22,7 @@ El programa sirve para poder hacer sumas de hasta cinco numeros, y esto me servi
 Si se haceptan tanto decimales como negativos porque se estan definiendo en el codigo y la suma funciona igual para los negativos y decimales
 
 **Invariante** (¿qué es verdad después de cada vuelta del ciclo?):
-que siempre va a dar un resultado de la suma, que se vana a usar numeros menores o iguales a 5
+que siempre va a dar un resultado de la suma, que se vana a usar un maximo de 5 numeros diferente
 
 ## 4. Casos resueltos a mano (Fase 1)
 
